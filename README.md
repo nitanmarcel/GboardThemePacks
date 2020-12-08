@@ -10,3 +10,11 @@ Set of Gboard theme packs to be used with [Rboard Themes](https://forum.xda-deve
 
 - Pack versions will recieve the updates firstly and are considered beta versions. To install them, open the file with a File Manager like FX File Manager or other managers that allows you to open a specific file with an app of your choice and simply open the .pack file with Rboard Theme Manager app.
 
+## Donate:
+
+**I'm not affiliated with the creators of the Rboard Theme Manager and my themes wouldn't exist without their awesome app. if you want to support them visit their** [Telegram Chat](t.me/gboardthemes), **and if you like my themes you can also donate to me using the options bellow:**
+
+ - PayPal: https://www.paypal.me/marcelalexandrunitan?locale.x=en_US
+ - Revolut: http://pay.revolut.com/profile/marceli6p
+ - BTC Wallet: 39UMZ2eSdztCP1n8bXFhFgLqjQobDDi912
+ - Coinbase Wallet username: @marcelnitan
